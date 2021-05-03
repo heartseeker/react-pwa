@@ -3,9 +3,8 @@
   "short_name": "WorkAppic",
   "theme_color": "#38a169",
   "background_color": "#ffffff",
-  "display": "Standalone",
-  "scope": "/",
-  "start_url": "/home",
+  "display": "standalone",
+  "start_url": ".",
   "icons": [
     {
       "src": "images/icons/maskable_icon_x1.png",
