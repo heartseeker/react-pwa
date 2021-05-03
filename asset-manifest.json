@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/react-pwa/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/react-pwa/static/js/main.574e6724.chunk.js",
-    "main.js.map": "/react-pwa/static/js/main.574e6724.chunk.js.map",
-    "runtime-main.js": "/react-pwa/static/js/runtime-main.ee55a00d.js",
-    "runtime-main.js.map": "/react-pwa/static/js/runtime-main.ee55a00d.js.map",
-    "static/js/2.48f69677.chunk.js": "/react-pwa/static/js/2.48f69677.chunk.js",
-    "static/js/2.48f69677.chunk.js.map": "/react-pwa/static/js/2.48f69677.chunk.js.map",
-    "static/js/3.037e5223.chunk.js": "/react-pwa/static/js/3.037e5223.chunk.js",
-    "static/js/3.037e5223.chunk.js.map": "/react-pwa/static/js/3.037e5223.chunk.js.map",
-    "index.html": "/react-pwa/index.html",
-    "service-worker.js": "/react-pwa/service-worker.js",
-    "service-worker.js.map": "/react-pwa/service-worker.js.map",
-    "static/css/main.9d5b29c0.chunk.css.map": "/react-pwa/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.48f69677.chunk.js.LICENSE.txt": "/react-pwa/static/js/2.48f69677.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/react-pwa/static/media/logo.103b5fa1.svg"
+    "main.css": "https://heartseeker.github.io/react-pwa/static/css/main.9db7dcfc.chunk.css",
+    "main.js": "https://heartseeker.github.io/react-pwa/static/js/main.5046666e.chunk.js",
+    "main.js.map": "https://heartseeker.github.io/react-pwa/static/js/main.5046666e.chunk.js.map",
+    "runtime-main.js": "https://heartseeker.github.io/react-pwa/static/js/runtime-main.37c6c2c6.js",
+    "runtime-main.js.map": "https://heartseeker.github.io/react-pwa/static/js/runtime-main.37c6c2c6.js.map",
+    "static/css/2.88515818.chunk.css": "https://heartseeker.github.io/react-pwa/static/css/2.88515818.chunk.css",
+    "static/js/2.84e9e8e6.chunk.js": "https://heartseeker.github.io/react-pwa/static/js/2.84e9e8e6.chunk.js",
+    "static/js/2.84e9e8e6.chunk.js.map": "https://heartseeker.github.io/react-pwa/static/js/2.84e9e8e6.chunk.js.map",
+    "index.html": "https://heartseeker.github.io/react-pwa/index.html",
+    "precache-manifest.1c8bd2fb26e8c80bb9cd60fafbc1673c.js": "https://heartseeker.github.io/react-pwa/precache-manifest.1c8bd2fb26e8c80bb9cd60fafbc1673c.js",
+    "service-worker.js": "https://heartseeker.github.io/react-pwa/service-worker.js",
+    "static/css/2.88515818.chunk.css.map": "https://heartseeker.github.io/react-pwa/static/css/2.88515818.chunk.css.map",
+    "static/css/main.9db7dcfc.chunk.css.map": "https://heartseeker.github.io/react-pwa/static/css/main.9db7dcfc.chunk.css.map",
+    "static/js/2.84e9e8e6.chunk.js.LICENSE.txt": "https://heartseeker.github.io/react-pwa/static/js/2.84e9e8e6.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "https://heartseeker.github.io/react-pwa/static/media/uitleg_menu.e5e6b944.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee55a00d.js",
-    "static/js/2.48f69677.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.574e6724.chunk.js"
+    "static/js/runtime-main.37c6c2c6.js",
+    "static/css/2.88515818.chunk.css",
+    "static/js/2.84e9e8e6.chunk.js",
+    "static/css/main.9db7dcfc.chunk.css",
+    "static/js/main.5046666e.chunk.js"
   ]
 }
